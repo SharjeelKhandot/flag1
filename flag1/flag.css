@@ -1,0 +1,27 @@
+*{
+    background-color:aquamarine;
+}
+.tree{
+    height: 200px;
+    width: 400px;
+    background-color:#e7042f;
+    
+
+}
+
+.tree1{
+    height: 50px;
+    width: 400px;
+    background-color: white;
+    position:absolute;
+    margin-top: 75px;
+    
+
+}
+.tree2{  
+    height:100%;
+    width: 12%;
+    background-color: white;
+    margin-left: 25%;
+
+}
